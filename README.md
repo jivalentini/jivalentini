@@ -1,16 +1,34 @@
-## Hi there 👋
+# Joaquin Valentini
 
-<!--
-**jivalentini/jivalentini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudiante de Ingeniería en Sistemas de Información con interés en desarrollo de software, aplicaciones web y tecnologías backend.
 
-Here are some ideas to get you started:
+Actualmente desarrollando proyectos académicos y personales relacionados con programación, bases de datos y modelado de sistemas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tecnologías y herramientas
+
+- Java
+- Python
+- SQL
+- PostgreSQL
+- HTML
+- CSS
+- Git
+- Análisis y Diseño de Sistemas
+
+## Proyectos destacados
+
+### Sistema de Gestión Hotelera
+Proyecto de análisis y diseño de sistemas para modelar la gestión de un hotel, incluyendo reservas, huéspedes y facturación.
+
+### Aplicación de Delivery de Comida
+Aplicación desarrollada en Java que permite gestionar pedidos entre clientes y vendedores, incluyendo administración de menú y cálculo de distancia.
+
+### Esteganografía en Imágenes
+Proyecto en Python que implementa técnicas de ocultamiento de información en imágenes utilizando transformadas de Fourier.
+
+## Intereses
+
+- Desarrollo backend
+- Desarrollo de aplicaciones web
+- Arquitectura de software
+- Bases de datos
